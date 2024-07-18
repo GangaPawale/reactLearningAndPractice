@@ -12,8 +12,9 @@ function App() {
   
 
   return (
-  <UserContextProvider>
-    <h1>LEt it done 
+  <UserContextProvider >
+    <h1 className='b'
+    >LEt it done 
 
     </h1>
     <User/>
